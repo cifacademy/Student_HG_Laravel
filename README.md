@@ -4,7 +4,7 @@ Repository ini digunakan untuk laravel hero guru user (student)
 
 ## For the first time joining our project.
 
-> Please check out our [Technical Guidelines](#tech-guideline) to help you successfully complete your tasks and resolve any issues you may encounter.
+> Please check out our [Technical Guidelines](#first-time-developer-guideline) to help you successfully complete your tasks and resolve any issues you may encounter.
 
 # First time developer guideline
 
